@@ -1,0 +1,11 @@
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/bin/Debug/netcoreapp2.1/CriandoVariaveis.deps.json
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/bin/Debug/netcoreapp2.1/CriandoVariaveis.runtimeconfig.json
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/bin/Debug/netcoreapp2.1/CriandoVariaveis.runtimeconfig.dev.json
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/bin/Debug/netcoreapp2.1/CriandoVariaveis.dll
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/bin/Debug/netcoreapp2.1/CriandoVariaveis.pdb
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.csprojAssemblyReference.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.csproj.CoreCompileInputs.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.AssemblyInfoInputs.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.AssemblyInfo.cs
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.dll
+/home/matheus/RiderProjects/CursoCSharpParte1/CriandoVariaveis/obj/Debug/netcoreapp2.1/CriandoVariaveis.pdb
