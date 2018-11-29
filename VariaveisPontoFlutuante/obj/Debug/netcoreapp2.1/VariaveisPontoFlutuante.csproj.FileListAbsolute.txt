@@ -1,0 +1,11 @@
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/bin/Debug/netcoreapp2.1/VariaveisPontoFlutuante.deps.json
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/bin/Debug/netcoreapp2.1/VariaveisPontoFlutuante.runtimeconfig.json
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/bin/Debug/netcoreapp2.1/VariaveisPontoFlutuante.runtimeconfig.dev.json
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/bin/Debug/netcoreapp2.1/VariaveisPontoFlutuante.dll
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/bin/Debug/netcoreapp2.1/VariaveisPontoFlutuante.pdb
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.csprojAssemblyReference.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.AssemblyInfoInputs.cache
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.AssemblyInfo.cs
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.dll
+/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/Debug/netcoreapp2.1/VariaveisPontoFlutuante.pdb
