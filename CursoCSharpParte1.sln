@@ -1,12 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroProjeto", "PrimeiroProjeto\PrimeiroProjeto.csproj", "{5E6C840B-F94D-43D8-A6AD-3F3F01A16D4A}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeiroProjeto", "PrimeiroProjeto\PrimeiroProjeto.csproj", "{5E6C840B-F94D-43D8-A6AD-3F3F01A16D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{D39A12E8-9B7D-4A25-B282-2AFBB6ABE96D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{D39A12E8-9B7D-4A25-B282-2AFBB6ABE96D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisPontoFlutuante", "VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{200C7F1E-BCE4-4B6E-9E5C-E2FA9E88D7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariaveisPontoFlutuante", "VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{200C7F1E-BCE4-4B6E-9E5C-E2FA9E88D7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesEOutrosTiposNumericos", "ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos.csproj", "{59FDC1E1-772C-4D8D-B4B3-0C3E13E77655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTiposNumericos", "ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos.csproj", "{59FDC1E1-772C-4D8D-B4B3-0C3E13E77655}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaracteresETexto", "CaracteresETexto\CaracteresETexto.csproj", "{00B78875-FACA-40A1-892F-60C09678A570}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtribuicaoVariaveis", "AtribuicaoVariaveis\AtribuicaoVariaveis.csproj", "{31025F27-A50C-4AFD-A853-DF1C3B959E08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais", "Condicionais\Condicionais.csproj", "{7384F743-49EB-4F14-914A-2CCD40A242F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csproj", "{FE2495DB-475C-4A35-8EBA-A0D983F1386B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +41,27 @@ Global
 		{59FDC1E1-772C-4D8D-B4B3-0C3E13E77655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FDC1E1-772C-4D8D-B4B3-0C3E13E77655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FDC1E1-772C-4D8D-B4B3-0C3E13E77655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B78875-FACA-40A1-892F-60C09678A570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B78875-FACA-40A1-892F-60C09678A570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B78875-FACA-40A1-892F-60C09678A570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B78875-FACA-40A1-892F-60C09678A570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31025F27-A50C-4AFD-A853-DF1C3B959E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31025F27-A50C-4AFD-A853-DF1C3B959E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31025F27-A50C-4AFD-A853-DF1C3B959E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31025F27-A50C-4AFD-A853-DF1C3B959E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7384F743-49EB-4F14-914A-2CCD40A242F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7384F743-49EB-4F14-914A-2CCD40A242F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7384F743-49EB-4F14-914A-2CCD40A242F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7384F743-49EB-4F14-914A-2CCD40A242F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2495DB-475C-4A35-8EBA-A0D983F1386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2495DB-475C-4A35-8EBA-A0D983F1386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2495DB-475C-4A35-8EBA-A0D983F1386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2495DB-475C-4A35-8EBA-A0D983F1386B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABB4199-B0DF-4A3C-B9A2-20405FEDA406}
 	EndGlobalSection
 EndGlobal

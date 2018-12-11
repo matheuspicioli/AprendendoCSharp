@@ -688,28 +688,30 @@
     ]
   },
   "packageFolders": {
-    "/home/matheus/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Ciatecnica\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/VariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Users\\Ciatecnica\\Documents\\Visual Studio 2017\\AprendendoCSharp\\VariaveisPontoFlutuante\\VariaveisPontoFlutuante.csproj",
       "projectName": "VariaveisPontoFlutuante",
-      "projectPath": "/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/VariaveisPontoFlutuante.csproj",
-      "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/RiderProjects/CursoCSharpParte1/VariaveisPontoFlutuante/obj/",
+      "projectPath": "C:\\Users\\Ciatecnica\\Documents\\Visual Studio 2017\\AprendendoCSharp\\VariaveisPontoFlutuante\\VariaveisPontoFlutuante.csproj",
+      "packagesPath": "C:\\Users\\Ciatecnica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ciatecnica\\Documents\\Visual Studio 2017\\AprendendoCSharp\\VariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/matheus/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Ciatecnica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -727,7 +729,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
